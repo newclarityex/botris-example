@@ -1,0 +1,3 @@
+create a .env file with the format:
+API_PATH="wss://botrisbattle.com/ws"
+API_TOKEN="bot token here"
